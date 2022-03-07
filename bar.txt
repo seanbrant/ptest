@@ -1,2 +1,1 @@
 bar baz bat;
-bat bar baz;
